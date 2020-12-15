@@ -1,6 +1,11 @@
 # Self-driving car with CARLA Simulator
 Self-driving car with CARLA Simulator and Python 3.7 on Ubuntu 18.04.
 
+CARLA has been developed from the ground up to support development, training,
+and validation of autonomous driving systems. In addition to open-source code
+and protocols, CARLA provides open digital assets (urban layouts, buildings,
+vehicles) that were created for this purpose and can be used freely.
+
 # Prerequisites
 Install Python 3.7:
 ```bash
