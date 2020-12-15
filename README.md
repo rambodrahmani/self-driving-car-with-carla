@@ -26,6 +26,12 @@ Install Python packages required for CARLA Simulator:
 python3.7 -m pip install --user pygame numpy networkx
 ```
 
+Intall OpenCV Python packages:
+```bash
+python3.7 -m pip install --upgrade pip
+python3.7 -m pip install opencv-python
+```
+
 # Install Carla Simulator
 The repository contains different versions of the simulator available.
 Development and stable sections list the packages for the different official
